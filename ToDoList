@@ -1,9 +1,9 @@
 1、线程个数变化处理
 
 2019-05-04: 写过的文件分配前需要回收?
-Solution: 释放JPC时ResetData
+Solution: 释放JPC时ResetData ========> Done
 
 
 2019-05-16：
-1. xxgmanager 修改md5校验
+1. xxgmanager 修改md5校验  =======> Done
 2. jpc_handle增加写权限位校验
