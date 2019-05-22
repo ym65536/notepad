@@ -7,3 +7,6 @@ Solution: 释放JPC时ResetData ========> Done
 2019-05-16：
 1. xxgmanager 修改md5校验  =======> Done
 2. jpc_handle增加写权限位校验
+
+2019-05-22：
+1. Compact Journal meta 加锁 ==> ToDo
