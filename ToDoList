@@ -9,4 +9,7 @@ Solution: 释放JPC时ResetData ========> Done
 2. jpc_handle增加写权限位校验
 
 2019-05-22：
-1. Compact Journal meta 加锁 ==> ToDo
+1. Compact Journal meta 加锁 ==> Done
+
+2019-05-28:
+1. memtable MergeFrom, 对于migrate mem,merge增加链表转移功能  ---> ToDo
