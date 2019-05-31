@@ -12,4 +12,7 @@ Solution: 释放JPC时ResetData ========> Done
 1. Compact Journal meta 加锁 ==> Done
 
 2019-05-28:
-1. memtable MergeFrom, 对于migrate mem,merge增加链表转移功能  ---> ToDo
+1. memtable MergeFrom, 对于migrate mem,merge增加链表转移功能  ---> Done
+
+2019-05-31:
+1. 主chunk写成功并写入memtable，从chunk写失败，此时返回前端失败，但是memtalbe写入成功，读出最新数据！！！？
