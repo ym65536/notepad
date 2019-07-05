@@ -1,0 +1,2 @@
+for host in `virsh list |grep -v "Name" |awk '{print $2}'`; do echo "=====$host===="; done
+
