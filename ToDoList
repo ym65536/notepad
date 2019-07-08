@@ -22,3 +22,12 @@ Solution: memtable中增加type,delete表示删除，从chunk写入失败的话�
 
 2019-06-21：
 1、migrate journal-> peer, pc_size不一致处理 ==> Done
+
+
+2019-07-08：
+leveldb version:
+https://draveness.me/bigtable-leveldb
+https://zhuanlan.zhihu.com/p/44584617
+https://izualzhy.cn/leveldb-version
+https://www.cnblogs.com/ewouldblock7/p/3721088.html
+https://bean-li.github.io/leveldb-version/
